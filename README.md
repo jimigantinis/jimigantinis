@@ -3,6 +3,7 @@
 - 🌱 Estudo principalmente C#, Unity and QA Analyst  
 - 📫 Caso queira falar comigo, jimi.gantinis@gmail.com
 
+
 - 👋 Hi, I’m Jimi Gantinis
 - 👀 I have 2 years of experience in Game Development and have interess in QA and testing  
 - 🌱 I’m currently learning C#, Unity and QA Analyst  
