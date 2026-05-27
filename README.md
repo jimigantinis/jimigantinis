@@ -1,11 +1,11 @@
 - 👋 Oi, me chamo Jimi Gantinis
-- 👀 Tenho 5 anos de experiência em Game Development.
+- 👀 Tenho 2 anos de experiência com Cibersegurança e 5 anos de experiência em Game Development.
 - 🌱 Estudo principalmente C#, Unity e Python  
 - 📫 Caso queira falar comigo, jimi.gantinis@gmail.com
 
 <n>English</n>
 - 👋 Hi, I’m Jimi Gantinis
-- 👀 I have 5 years of experience in Game Development 
+- 👀 I have 2 years of experience with cibersecurity and 5 years of experience in Game Development 
 - 🌱 I’m currently learning C#, Unity and Python
 - 📫 How to reach me jimi.gantinis@gmail.com
 
